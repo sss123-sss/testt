@@ -1,6 +1,6 @@
 function SugarCreek_Part1_MeatTempering_SP_02032018_1748hrs
 close all
-clear all
+clear 
 clc
 global h Ti Tinf X_water X_b T_f tnodes rnodes Latent X_pr X_lipid X_ash
 
